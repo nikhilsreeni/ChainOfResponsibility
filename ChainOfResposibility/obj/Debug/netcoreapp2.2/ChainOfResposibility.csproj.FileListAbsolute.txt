@@ -1,0 +1,11 @@
+D:\CustomMade\ChainOfResposibility\ChainOfResposibility\ChainOfResposibility\bin\Debug\netcoreapp2.2\ChainOfResposibility.deps.json
+D:\CustomMade\ChainOfResposibility\ChainOfResposibility\ChainOfResposibility\bin\Debug\netcoreapp2.2\ChainOfResposibility.runtimeconfig.json
+D:\CustomMade\ChainOfResposibility\ChainOfResposibility\ChainOfResposibility\bin\Debug\netcoreapp2.2\ChainOfResposibility.runtimeconfig.dev.json
+D:\CustomMade\ChainOfResposibility\ChainOfResposibility\ChainOfResposibility\bin\Debug\netcoreapp2.2\ChainOfResposibility.dll
+D:\CustomMade\ChainOfResposibility\ChainOfResposibility\ChainOfResposibility\obj\Debug\netcoreapp2.2\ChainOfResposibility.csprojAssemblyReference.cache
+D:\CustomMade\ChainOfResposibility\ChainOfResposibility\ChainOfResposibility\obj\Debug\netcoreapp2.2\ChainOfResposibility.csproj.CoreCompileInputs.cache
+D:\CustomMade\ChainOfResposibility\ChainOfResposibility\ChainOfResposibility\obj\Debug\netcoreapp2.2\ChainOfResposibility.AssemblyInfoInputs.cache
+D:\CustomMade\ChainOfResposibility\ChainOfResposibility\ChainOfResposibility\obj\Debug\netcoreapp2.2\ChainOfResposibility.AssemblyInfo.cs
+D:\CustomMade\ChainOfResposibility\ChainOfResposibility\ChainOfResposibility\bin\Debug\netcoreapp2.2\ChainOfResposibility.pdb
+D:\CustomMade\ChainOfResposibility\ChainOfResposibility\ChainOfResposibility\obj\Debug\netcoreapp2.2\ChainOfResposibility.dll
+D:\CustomMade\ChainOfResposibility\ChainOfResposibility\ChainOfResposibility\obj\Debug\netcoreapp2.2\ChainOfResposibility.pdb
